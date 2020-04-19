@@ -18,7 +18,7 @@
     @include('guest.sidebar')
     <div class="wrapper">
 
-            @include('guest.nav')
+     @include('guest.nav')
 
     ควย
     @include('layouts.footer')
